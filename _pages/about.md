@@ -7,18 +7,19 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Vienna, Austria</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+For a brief and compact overview, take a look at my [CV](/assets/pdf/cv.pdf). 
+
+ Developer with experience building software for companies and freelance work covering different areas in finance and business, and thirsty for learning new interesting technologies such as LLMs with experienced developers.  I have gained Extensive expertise in leveraging big data analytics platforms, tools, and cloud infrastructure components at a profound technical level and am Proficient in deploying comprehensive monitoring and alerting solutions to ensure the delivery of top-notch, efficient services as well as working collaboratively with an agile team comprising Reports, Process Automation, and IT System, we create intelligent risk solutions based on data analysis.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
