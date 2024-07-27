@@ -69,44 +69,25 @@
       "name": "Dev",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "Java",
-        "JavaScript",
-        "C/C++"
-      ]
+      "keywords": ["Python", "Java", "JavaScript", "C/C++"]
     },
     {
       "name": "Data",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PyTorch",
-        "PostgreSQL",
-        "Spark",
-        "MLlib",
-        "Kafka"
-      ]
+      "keywords": ["PyTorch", "PostgreSQL", "Spark", "MLlib", "Kafka"]
     },
     {
       "name": "Ops",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Docker",
-        "AWS",
-        "Git"
-      ]
+      "keywords": ["Docker", "AWS", "Git"]
     },
     {
       "name": "Analytics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Excel",
-        "Tableau",
-        "SAS"
-      ]
+      "keywords": ["Excel", "Tableau", "SAS"]
     }
   ],
   "languages": [
